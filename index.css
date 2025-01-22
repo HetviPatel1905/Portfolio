@@ -176,6 +176,7 @@ section {
   font-weight: 500;
   text-wrap: nowrap;
   transition: 0.3s ease-in-out;
+  color: black;
 }
 
 .btn:hover {
@@ -188,6 +189,10 @@ section {
   flex-direction: row;
   justify-content: center;
   gap: 2rem;
+}
+
+.socials-logo {
+  color: black;
 }
 
 .socials i {
