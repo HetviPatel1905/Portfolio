@@ -35,6 +35,7 @@ The Skills section is divided into four grids:
 ### 3. Projects
 
 - Showcases the three most recent projects with descriptions, images, and links to repositories.
+- Images used: ![Alt text](./images/)
 
 ### 4. Contact
 
