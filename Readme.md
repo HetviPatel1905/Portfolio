@@ -51,8 +51,8 @@ The Skills section is divided into four grids:
 If you encounter any issues or have suggestions, feel free to reach out:
 
 - **Email**: pathe1905@gmail.com
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/hetvi-patel-custom)
-- **LinkedIn**: [Github Profile](https://github.com/HetviPatel1905)
+- **LinkedIn**: [www.linkedin.com/in/hetvi-patel-custom]
+- **LinkedIn**: [https://github.com/HetviPatel1905]
 
 ## License
 
