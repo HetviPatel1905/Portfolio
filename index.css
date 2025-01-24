@@ -337,37 +337,30 @@ section {
   font-weight: 500;
 }
 
-.input-box {
+#contact {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f9f9f9;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  gap: 2rem;
-  margin-top: 5rem;
+  gap: 1rem;
 }
 
-.input-box input {
-  border-radius: 3rem;
-  border: 2px solid black;
-  padding: 2rem 8rem;
-  font-size: 3rem;
+label {
+  font-weight: bold;
 }
 
-.input-box input::placeholder {
-  font-size: 3rem;
-}
-
-.input {
-  position: relative;
-}
-
-.input i {
-  position: absolute;
-  font-size: 4rem;
-  top: 50%;
-  left: 10px;
-  transform: translate(50%, -50%);
+input,
+textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
 }
 
 footer {
