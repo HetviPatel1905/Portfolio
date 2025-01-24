@@ -54,5 +54,6 @@ If you encounter any issues or have suggestions, feel free to reach out:
 - **Email**: pathe1905@gmail.com
 - **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/hetvi-patel-custom)
 - **Github**: [My Github Profile](https://github.com/HetviPatel1905)
+- **Resume**: ![Resume PDF](./images/resume.pdf)
 
 Thank you for visiting my portfolio website!
