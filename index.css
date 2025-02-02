@@ -132,8 +132,14 @@ section {
 }
 
 .about img {
-  width: 40vw;
+  width: 30vw;
   border-radius: 80%;
+}
+
+.img-container {
+  border: 2px solid rgba(218, 137, 174, 1);
+  border-radius: 80%;
+  padding: 20px;
 }
 
 .info-box {
@@ -156,14 +162,10 @@ section {
 }
 
 .info-box span {
-  background: linear-gradient(
-    0deg,
-    rgba(218, 137, 174, 1) 0%,
-    rgba(121, 119, 222, 1) 100%
-  );
+  background: rgba(218, 137, 174, 1);
   background-clip: text;
   color: transparent;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .btn-group {
@@ -214,6 +216,7 @@ section {
   font-size: 4rem;
   font-weight: 600;
   margin-bottom: 3rem;
+  color: rgba(218, 137, 174, 1);
 }
 
 .skills-info {
@@ -262,8 +265,8 @@ section {
 }
 
 .grid-card span {
-  font-size: 1.5rem;
-  font-weight: 500;
+  font-size: 2rem;
+  font-weight: 600;
   background: linear-gradient(
     0deg,
     rgba(218, 137, 174, 1) 0%,
@@ -393,6 +396,7 @@ footer ul {
 footer ul li a {
   color: black;
   font-weight: 600;
+  font-size: 1.5rem;
 }
 
 .copyright {
@@ -470,7 +474,11 @@ footer ul li a {
 
 @media (max-width: 600px) {
   header #menu-icon {
-    display: block;
+    display: flex;
+  }
+
+  header .logo {
+    padding-left: 1.5rem;
   }
 
   .nav-links {
@@ -499,8 +507,8 @@ footer ul li a {
   }
 
   header {
-    padding: 1rem 5rem;
-    gap: 8rem;
+    padding: 1rem 2rem;
+    gap: 4rem;
   }
 
   header .logo {
